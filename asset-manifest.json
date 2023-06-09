@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/panorbit/static/css/main.56d18595.css",
+    "main.js": "/panorbit/static/js/main.3c7db704.js",
+    "static/js/787.cd498418.chunk.js": "/panorbit/static/js/787.cd498418.chunk.js",
+    "static/media/background1.png": "/panorbit/static/media/background1.80f911a8759771d475e1.png",
+    "static/media/background2.png": "/panorbit/static/media/background2.507e90d4aa6b45889032.png",
+    "index.html": "/panorbit/index.html",
+    "main.56d18595.css.map": "/panorbit/static/css/main.56d18595.css.map",
+    "main.3c7db704.js.map": "/panorbit/static/js/main.3c7db704.js.map",
+    "787.cd498418.chunk.js.map": "/panorbit/static/js/787.cd498418.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56d18595.css",
+    "static/js/main.3c7db704.js"
+  ]
+}
