@@ -7,5 +7,3 @@ react-icons:       Includes popular icons for projects.
 google-map-react:  To integrate map functionality.
 
 tailwindcss:       CSS framework which handles UI.
-
-firebase-tools:    It is used to host the application online.

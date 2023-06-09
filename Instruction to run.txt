@@ -1,4 +1,4 @@
-weblink: https://panorbit-assignments.web.app
-gitLink: https://github.com/CodifiedChinnappa/panorbit-assignments
+weblink: https://codifiedchinnappa.github.io/profile-details/Leanne-Graham
+gitLink: https://github.com/CodifiedChinnappa/panorbit
 
 command: npm start
